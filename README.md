@@ -1,6 +1,7 @@
 # Basics-of-NLP
 
 There are no commands to run. Each ipynb can be run and do a certain task.
+Download this and extract it in ./Text Similarity Scores/Fine Tuning : https://iiitaphyd-my.sharepoint.com/:u:/g/personal/anish_joishy_research_iiit_ac_in/ET8qNwg8GvVLgpLPxu0acEsBsnjmbUsHzKJcGBKAVPc71w?e=YMZWoc
 
 ## ./Word Similarity has 3 ipynb files.
 
