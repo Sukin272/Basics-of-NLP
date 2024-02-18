@@ -27,6 +27,9 @@ Download this and extract it in ./Text Similarity Scores/Fine Tuning : https://i
 2. ChatGptTestPhrase has phrase similarity prediction with openai API.
 3. My attempt to get LLAMA model to predict a text similarity using replicate.
 
+# Paper Reading Task
+https://docs.google.com/presentation/d/12mYH9bTQQhIsvm6vzU7rNwn2SMjn8b_3mQ1CMY3cS44/edit?usp=sharing
+
 ```
 .
 ├── README.md
